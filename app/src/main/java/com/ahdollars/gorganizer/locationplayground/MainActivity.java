@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //gta
         //moron
         //crisis
-        //yoyo
+
 
     }
 
